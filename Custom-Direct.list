@@ -1,6 +1,4 @@
 DOMAIN-SUFFIX,steins.top
-DOMAIN-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,deeplx.org
 SRC-IP-CIDR,192.168.10.80/32
