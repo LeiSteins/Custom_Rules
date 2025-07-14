@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,steins.top
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-SUFFIX,deeplx.org
+SRC-IP-CIDR,192.168.10.80/32
+SRC-IP-CIDR,192.168.10.90/32
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,bwg-cn88.com
